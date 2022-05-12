@@ -5,3 +5,6 @@
 pip install "fastapi[all]"
 pip install sqlalchemy
 ```
+
+## Referência usada nesse exemplo;
+https://fastapi.tiangolo.com/pt/tutorial/sql-databases/
